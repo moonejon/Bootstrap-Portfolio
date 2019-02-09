@@ -6,26 +6,15 @@ header {
 
 body {
   background-color: #001f3f;
-  line-height: 30px;
 }
 
 img {
-  margin: 5px 10px 10px 5px;
+  margin: 5px 10px 5px 10px;
 }
 
-.about {
-  margin-bottom: 15px;
-}
-
-
-.profile {
-  max-width: 200px;
-  max-height:auto;
-}
 .content-card {
   background-color: white;
   font-family: "Open Sans", sans-serif;
-  font-size: 18px;
   padding: 30px;
 }
 
