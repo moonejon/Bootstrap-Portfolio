@@ -22,6 +22,11 @@ img {
   max-width: 200px;
   max-height:auto;
 }
+
+.project-card {
+  background-color: #556B2F;
+}
+
 .content-card {
   background-color: white;
   font-family: "Open Sans", sans-serif;
